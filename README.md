@@ -6,21 +6,33 @@ Chat with Gemini AI: Get interactive language practice and assistance with our a
 Google Sign-In: Quick and secure sign-in using your Google account.
 
 
-1.![SplashScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/47cb3605-7a32-4355-9a39-32c125120c39)
-2.![Loginscreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/bc536d91-2f5b-4ff6-bd49-c8e310cc1d60)
-3.![SignupScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/eb19c99d-1e9f-4714-a1aa-16cd3df7ad23)
-4.![Homescreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/d045842c-951d-409b-bd7d-575d9331bd9b)
-5.![detailScreen1-levelScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/063a0692-1682-421c-8186-bb13bfe3527f)
-6.![detailScreen2-lessonScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/023866c3-6905-4c98-8dee-48f3b8825fc7)
+1.
+  ![SplashScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/47cb3605-7a32-4355-9a39-32c125120c39)
+2.
+  ![Loginscreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/bc536d91-2f5b-4ff6-bd49-c8e310cc1d60)
+3.
+  ![SignupScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/eb19c99d-1e9f-4714-a1aa-16cd3df7ad23)
+4.
+  ![Homescreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/d045842c-951d-409b-bd7d-575d9331bd9b)
+5.
+  ![detailScreen1-levelScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/063a0692-1682-421c-8186-bb13bfe3527f)
+6.
+  ![detailScreen2-lessonScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/023866c3-6905-4c98-8dee-48f3b8825fc7)
 
 
 
 Favorite Screen
 ![Favoritescreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/3f0e283a-e1d0-46f6-abb9-2cad01d36490)
 
-7.![Communityforum](https://github.com/nchola/v1.polyglotpath/assets/108863217/abc4c4b3-0d38-42ca-bdbb-93f8fc07064c)
-8.![ForumPageScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/35affdff-2010-4b17-bf8b-0ceee547b7fb)
-9.![ForumDetailScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/b2702f4e-1628-4b53-9dee-1f2b4dde809d)
-10.![GeminiAI-ChatScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/32dd1d80-afd6-4559-8985-8cab4158d613)![Screenshot 2024-07-06 155328](https://github.com/nchola/v1.polyglotpath/assets/108863217/8ad11fd5-07a9-4643-88db-e61dea3766ad)
-11.![Profilescreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/0afac930-0a30-4e84-a4bf-b9690dc59baa)
-12.![Screenshot 2024-07-06 155328](https://github.com/nchola/v1.polyglotpath/assets/108863217/aec0ad30-1d01-420e-99ec-248dda411546)
+7.
+  ![Communityforum](https://github.com/nchola/v1.polyglotpath/assets/108863217/abc4c4b3-0d38-42ca-bdbb-93f8fc07064c)
+8.
+  ![ForumPageScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/35affdff-2010-4b17-bf8b-0ceee547b7fb)
+9.
+  ![ForumDetailScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/b2702f4e-1628-4b53-9dee-1f2b4dde809d)
+10.
+  ![GeminiAI-ChatScreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/32dd1d80-afd6-4559-8985-8cab4158d613)![Screenshot 2024-07-06 155328](https://github.com/nchola/v1.polyglotpath/assets/108863217/8ad11fd5-07a9-4643-88db-e61dea3766ad)
+11.
+   ![Profilescreen](https://github.com/nchola/v1.polyglotpath/assets/108863217/0afac930-0a30-4e84-a4bf-b9690dc59baa)
+12.
+   ![Screenshot 2024-07-06 155328](https://github.com/nchola/v1.polyglotpath/assets/108863217/aec0ad30-1d01-420e-99ec-248dda411546)
