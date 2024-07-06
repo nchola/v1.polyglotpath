@@ -1,0 +1,32 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "imposing-bee-421110",
+          "appId": "1:692047291199:android:b7cd5b5f0eaf78d40fa98a",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "imposing-bee-421110",
+          "configurations": {
+            "android": "1:692047291199:android:b7cd5b5f0eaf78d40fa98a",
+            "web": "1:692047291199:web:1745c07172fe5e3e0fa98a"
+          }
+        }
+      }
+    }
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
