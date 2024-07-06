@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "692047291199",
+    "firebase_url": "https://imposing-bee-421110-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "imposing-bee-421110",
+    "storage_bucket": "imposing-bee-421110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692047291199:android:51c4d782a07a2b870fa98a",
+        "android_client_info": {
+          "package_name": "com.example.firestore_latihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692047291199-ed0vl83qvrhe763178kjofjun2u6pgpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3LRyi3Q0F191tdYZk6cIqpMrN6AnDNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692047291199-ed0vl83qvrhe763178kjofjun2u6pgpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692047291199:android:b7cd5b5f0eaf78d40fa98a",
+        "android_client_info": {
+          "package_name": "com.example.polyglotpath"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692047291199-ed0vl83qvrhe763178kjofjun2u6pgpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3LRyi3Q0F191tdYZk6cIqpMrN6AnDNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692047291199-ed0vl83qvrhe763178kjofjun2u6pgpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

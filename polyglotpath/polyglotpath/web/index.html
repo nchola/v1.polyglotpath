@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="polyglotpath">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png"/>
+  <title>polyglotpath</title>
+  <link rel="manifest" href="manifest.json">
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+  <script>
+    // Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyCGQHEiFZKo5Mb4qihXrbws-wx77w-kfh8",
+      authDomain: "imposing-bee-421110.firebaseapp.com",
+      databaseURL: "https://imposing-bee-421110-default-rtdb.asia-southeast1.firebasedatabase.app",
+      projectId: "imposing-bee-421110",
+      storageBucket: "imposing-bee-421110.appspot.com",
+      messagingSenderId: "692047291199",
+      appId: "1:692047291199:web:15616401974f8a900fa98a",
+      measurementId: "G-6KWWDZM7BJ"
+    };
+
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    
+    function onLoadCallback() {
+      gapi.load('auth2', function() {
+        gapi.auth2.init({
+          client_id: '692847291199-iie15n73e61i88d1ktl6s85oleqk51ud.apps.googleusercontent.com'  // replace with your actual client ID
+        });
+      });
+    }
+  </script>
+</head>
+<body onload="onLoadCallback()">
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
